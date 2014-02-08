@@ -33,7 +33,7 @@ app.get('/', function(req, res) {
 
 ## Options
 
-- see extra param here, first one is wrapped 'data', other ones like fields, or extra param are here https://github.com/darul75/json2csv
+- see extra param here, first one is wrapped 'data', other ones like fields, or extra param are here https://github.com/zeMirco/json2csv
 
 ## License
 
