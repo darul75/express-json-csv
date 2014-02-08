@@ -1,10 +1,10 @@
 # Express-json-csv [![NPM version](https://badge.fury.io/js/express-json-csv.png)](http://badge.fury.io/js/express-json-csv) [![Build Status](https://travis-ci.org/darul75/express-json-csv.png?branch=master)](https://travis-ci.org/darul75/express-json-csv) [![Total views](https://sourcegraph.com/api/repos/github.com/darul75/express-json-csv/counters/views.png)](https://sourcegraph.com/github.com/darul75/express-json-csv)
 
-Simple JSON file session store for Express (Connect I guess)
+Simple JSON to CSV response handler for Express
 
 ## Why ?
 
-Because we may need it for simple cases.
+Is some case, you may need to save a JSON as a CSV by instance.
 
 ## Install
 
